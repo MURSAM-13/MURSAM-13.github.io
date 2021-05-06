@@ -13,7 +13,7 @@
    <div class="align-items-lg-center">
 <!--First section-->
   <h1 style="font-size:50px;">THE NEW SET UP OF THE YEAR<col class="col-12"></h1>
-  <p style="font-size:30px;color:white:"><em>MADE WITH SUBLIME TEXT</em></p>
+  <p style="font-size:30px;color:white;"><em>MADE WITH SUBLIME TEXT</em></p>
 </div>
 <section class="text-center col-12">
 <a href="https://mailchi.mp/066e00ed5c33/tejomurtula-web-page">
