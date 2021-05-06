@@ -29,43 +29,6 @@
 </body>
 </html>
 
-body,
-html{
-	width: 100%;
-	height:100%;
-	font-family: 'Montserrat',sans-serif;
-	background: url(https://image.shutterstock.com/image-illustration/snow-falling-stock-image-black-260nw-1519161953.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  text-align: center;
-
-}
-.btn{
-	font-weight: 700;
-	border-radius: 300px;
-}
-.btn-warning{
-	background-color: green;
-	border-color: green;
-}
-.btn-warning:hover{
-	background-color: orange;
-	border-color: orange
-	border-width: 4px;
-}
-.container{
-	text-align:;
-}
-h1{ 
-	text-align:center; 
-	color: #B1C0DB;
-}
-img{
-	justify-content: center;
-}
-
 ASTROLOGY IS TERMED AS THE STUDY OF THE MOVEMENTS OF THE PLANETS IN THE UNIVERSE.
 THIS SKILL IS BEEN PERSUIED FROM AGES.
 THE ORIGINALLY ASTOLOGY IS FOUND IN INDIA.
